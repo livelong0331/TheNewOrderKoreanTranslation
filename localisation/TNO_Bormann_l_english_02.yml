@@ -1391,7 +1391,7 @@ BOR_a_chink_in_the_armor_desc:0 "Hm... it seems that if we are to use our Panzer
 
 
 #Vituska Victory#
-BOR_betrayal_in_the_ostfront:0 "Betrayal in the Ostfront"
+BOR_betrayal_in_the_ostfront:0 "동부전선에서의 배신"
 BOR_betrayal_in_the_ostfront_desc:0 "Our Reichskommissariat in Ostland has fallen apart at the seams!\n\nThe natives have taken it upon themselves to once again rise up in defiance against the Reich! Even all the autonomy we've given the collaborators, not to mention our economic investment, is apparently not good enough for these ingrates! Some good has come out of this at least; many of our citizens are blaming the reformist faction in our administration for this disaster, which does weaken their influence in our administration. This isn't the time to celebrate a minor political victory, however. We need to take action.\n\nThe betrayal in Ostland will not stand."
 
 BOR_the_vituska_question:0 "The Vituska Question"
@@ -1435,7 +1435,7 @@ BOR_grain_and_steel1_desc:0 "The loyalty of the Lie government continues to asto
 BOR_reinforce_hirden:0 "Reinforce the Hirden"
 BOR_reinforce_hirden_desc:0 "As loyal as the Lie government is to our government, it seems that much of the Norwegian populace does not share the same sentiment. Even in these days of prosperity, word leaks into Oslo of new resistance to our rule, as those who fought us for decades undoubtedly scramble to recover and reestablish their grip on the mountains. As much as we'd like to prevent this, of course, German assets are limited in these times. We only have a small amount of forces that we can spare to help keep order- not nearly enough to maintain our rule across the Baltic.\n\nOnce again, however, the ingenuity of Lie and his followers comes through as an easy solution. Lie and his government have bent the party's paramilitary- the Hirden- to their will, and they now serve as a loyal force, united behind the radicals. By reinforcing these men with both guns and advisors, we can bolster our presence across the waves without diverting a full division or two. It's another genius solution to what could have been a fatal problem- indeed, some in Germania now wonder why we didn't have Lie running the RK earlier, with how loyal he has proven to be."
 
-BOR_resume_germanization1:0 "Resume Germanization"
+BOR_resume_germanization1:0 "독일화 재개"
 BOR_resume_germanization1_desc:0 "With the pieces now in place, the government bent fully at our feet, and the loyalty of the Norwegian people ensured, it is time to resume the final, greatest portion of our Norwegian policy- Germanization.\n\nBefore Terboven and his forces left Norway to fight on German soil, the policy of Germanization worked its way through all facets of Norwegian life. Traditional holidays were replaced with German ones, celebrations of Germanic culture became commonplace, and the Lebensborn project was thrown into full force. Slowly but surely, the old traditions of Norway were replaced by the true, Germanic celebrations of Aryan supremacy.\n\nUnfortunately, Terboven's departure brought an abrupt end to these changes. Unbelievably, statues were torn down, swastikas ripped to shreds, and the traditions of the wayward Norwegian culture reared its head once more. While this disobedience undoubtedly deserves punishment, it has been decided that we shall simply restore those policies that have been lost. Once again, our loyal men in Oslo have proven to be a lifesaver- while they could not stop the reversal entirely, they certainly managed to contain the damage. It's truly incredible what a loyal, collaborationist government can do. If only we could have such loyal followers in the East!"
 
 ##NS Mainstream##
@@ -1576,8 +1576,8 @@ BOR_limited_representation_desc:0 "The natives have proven themselves capable of
 BOR_formally_end_germanization:0 "Formally End Germanization"
 BOR_formally_end_germanization_desc:0 "Under Koch, Germanization did bear some fruit though his unabashed brutality. After the economic crash in the 50s, the program floundered, strangled by a chronic lack of money to fund the project. The only results we've gained from Germanization since then is heightened tensions and bad blood between German settlers and the natives. With Ukraine now collaborating with the Reich, the program serves no purpose. It is time to end Germanization in Ukraine officially, and to focus our efforts elsewhere."
 
-BOR_split_gotenland:0 "Split Gotenland"
-BOR_split_gotenland_desc:0 "Although Ukraine is its own sovereign country ruled by its own people again, we have not forgotten the Germans who have settled in and around the Krim, and who now call the land home. While we will allow Ukraine to remain independent, letting them rule over Germans is completely unacceptable. To amend this, we shall split off the German majority regions from Ukraine into their own independent state, Gotenland. They shall administer themselves, which lightens the bureaucratic load off both us and Ukraine. It also keeps the major Black Sea ports in German hands, which keeps Ukraine totally dependent on us."
+BOR_split_gotenland:0 "고텐란트 분할"
+BOR_split_gotenland_desc:0 "우크라이나는 우크라이나인들이 다스리는 주권국가이지만, 우리는 크림 주변에 정착하고 그 땅을 '집'이라고 부르는 독일인들을 잊지 않았습니다. 우크라이나가 독립국으로 남는 것은 허락하겠지만, 그들이 독일인들을 다스리는 것은 절대 용납할 수 없습니다. 우리는 독일인이 다수인 지역을 우크라이나에서 분리해 독립국가인 고텐란트를 세울 겁니다. 고텐란트의 일은 독일인들이 스스로 결정해서 우리와 우크라이나 모두의 사무적 절차의 짐을 덜 수 있게 될 것입니다. 또한 흑해의 주요한 항구를 우리의 손에 넣어 우크라이나를 우리에게 완전하게 의존하게 할 겁니다."
 
 BOR_send_the_wehrmacht:0 "Send in the Wehrmacht"
 BOR_send_the_wehrmacht_desc:0 "As long as Ukraine remains an independent nation, they remain a threat to the Reich; an exposed flank in our side. The only way for Germany to remain secure and self-dependent is to march back into Ukraine and secure it. We can not tolerate anyone controlling the breadbasket of Europe, and the Black Sea ports are too important to not have in our direct control.\n\nWe have no choice. The Heer will march at once and re-establish the Reichskommissariat. We will put down the upstarts, by force."
@@ -1591,7 +1591,7 @@ BOR_a_new_reichskommissar_ukr_desc:0 "With Ukraine more or less secured and stab
 ##Bormann Moskowien focuses##
 
 ##2-State Solution##
-BOR_a_failed_solution:0 "A Failed Solution"
+BOR_a_failed_solution:0 "실패한 해결책"
 BOR_a_failed_solution_desc:0 ""
 
 BOR_victory_for_our_kin:0 "Victory for Our Kin"
@@ -1603,7 +1603,7 @@ BOR_loyalty_and_valor_desc:0 ""
 BOR_once_more_into_the_breach:0 "Once More Unto the Breach"
 BOR_once_more_into_the_breach_desc:0 ""
 
-BOR_towards_moskau:0 "Towards Moskau"
+BOR_towards_moskau:0 "모스카우로"
 BOR_towards_moskau_desc:0 ""
 
 BOR_reinforcements_from_home:0 "Reinforcements from Home"
@@ -2168,7 +2168,7 @@ BOR_our_one_true_ally:0 "우리의 진정한 동맹"
 BOR_our_one_true_ally_desc:0 "Despite the treachery, despite the infestation of dissidents scheming throughout the Reich, despite the mass of special interest groups of questionable loyalty to the Party... one ally has never failed us. The Ordnungspolizei has dutifully served as the official uniformed police force of the Reich since 1936,  and the time has come to reward this institution for its unwavering dedication to National Socialism. The OrPo shall be reformed into something greater, something with the capacity to defend the Fatherland from threats both internal and external."
 
 BOR_the_orpos_expansion:0 "질서경찰의 확장"
-BOR_the_orpos_expansion_desc:0 "경찰로서의 역할을 하며, 하인리히 뮐러의 지도 아래 질서경찰은 국방군의 역할과 게슈타포의 시설들을 흡수했습니다. 더 나아가, 내부의 반체제 인사들을 뿌리뽑기 위해 새로운 조직이 질서경찰 내부에 설립될 것이고, 내부적인 정보 우리의 비밀경찰이 역할을 다하고 폭동을 진압하기 위한 역할도 할 것입니다."
+BOR_the_orpos_expansion_desc:0 " 질서경찰은 경찰로서의 역할을 하며, 하인리히 뮐러의 지도 아래 국방군의 역할과 게슈타포의 시설들을 흡수했습니다. 더 나아가, 내부의 반체제 인사들을 뿌리뽑기 위해 새로운 조직이 질서경찰 내부에 설립될 것이고, 내부적인 정보 우리의 비밀경찰이 역할을 다하고 폭동을 진압하기 위한 역할도 할 것입니다."
 
 BOR_a_new_leader:0 "새로운 지도자"
 BOR_a_new_leader_desc:0 "This daring new organization requires a daring new leader to maneuver its many administrative complexities. Bormann has decreed that the current head of the OrPo, Heinrich Müller, will be named its first Chief. What he lacks in ideological zeal he makes up for in bureaucratic prowess; the selection of this former Gestapo leader will doubtless prove popular within the Party."
