@@ -122,19 +122,19 @@
  BOR_the_march_east_collapse_desc: "The Reich is going to war against the secessionist states now occupying large portions of the former Reichskommissariat Moskowien. The Wehrmacht is being fully mobilized for the war effort, and great care must be put to ensure that the logistics and infrastructure are ready to support the armed forces."
  BOR_the_march_east_2SS: "The March East"
  BOR_the_march_east_2SS_desc: "The Reich is going to war against the secessionist states now occupying large portions of the former Reichskommissariat Moskowien. The Wehrmacht is being fully mobilized for the war effort, and great care must be put to ensure that the logistics and infrastructure are ready to support the armed forces."
- BOR_moskowien_reconstruction: "The Reconstruction of Moskowien"
- BOR_moskowien_reconstruction_desc: "The war to reconquer Moskowien is over, and the Reichskommissariat is once again under full German control. Now, a comprehensive effort has been undertaken to rebuild the region and ensure it can become a productive province of the larger Reich: large funds are being destined to reconstruct cities, factories and key infrastructures destroyed by the belligerents."
- BOR_MCW_russian_dissidence:0 "Russian Dissidence"
+ BOR_moskowien_reconstruction: "모스코비엔의 재건"
+ BOR_moskowien_reconstruction_desc: "The war to reconquer Moskowien is over, and the Reichskommissariat is once again under full German control. Now, a comprehensive effort has been undertaken to rebuild the region and ensure it can become a productive province of the larger Reich: large funds are being destined to reconstruct cities, factories and key infrastructures destroyed by the belligerents. "
+ BOR_MCW_russian_dissidence:0 "러시아인 반체제 인사"
  BOR_MCW_russian_dissidence_desc:0 "The native Russians in Moskowien are fomenting dissent and rebellion in the Reichskommissariat. Whether their grievances are justified, or they are merely trying to secede once more from the Reich, this is disturbing ordinary life as protests and terrorist attacks cause delays in public works and victims among the security forces: if decisive actions are not undertaken, the protest will only continue, and may even grow."
- BOR_MCW_wolga_german_dissidence:0 "Wolgadeutsche Dissidence"
+ BOR_MCW_wolga_german_dissidence:0 "볼가 독일인 반체제 인사"
  BOR_MCW_wolga_german_dissidence_desc:0 "Unlike the rest of the German minority in Moskowien, the native Aryans of the Wolga region have been forcefully reintegrated within the Reich due to their refusal to adopt National Socialism and lose their autonomy. Now, they vehemently protest against the administration and ask to have their autonomy back: despite all efforts from the security forces, they can't seem to stop the rallies and partisan sabotages. Decisive actions must be undertaken, or the situation may worsen."
  
  #Italy diplo
  BOR_ITA_ever_vigilant_watch: "Ever Vigilant Watch"
  BOR_ITA_ever_vigilant_watch_desc: "The Italians, our greatest foe on the continent, are just beyond our borders, waiting for the smallest chance to strike at the heart of our great nation. They will find none, however, for the finest among our elite soldiers stand guard on the Alps, sentinels and guardians of the Reich against any and all invaders!"
- BOR_ITA_relax_trade_restrictions: "Relaxed Italian Trade Restrictions"
+ BOR_ITA_relax_trade_restrictions: "이탈리아와의 무역 제한 완화"
  BOR_ITA_relax_trade_restrictions_desc: "As part of our effort to rebuild diplomatic relationships with the Italian Empire, our two countries have mutually relaxed the harsh trade restrictions that have strangled trade for more than a decade. As trade starts flowing once again across the Alps, our economy can already feel the first beneficial effects."
- BOR_ITA_best_friends_forever: "Peace in our Time!"
+ BOR_ITA_best_friends_forever: "우리 시대의 평화"
  BOR_ITA_best_friends_forever_desc: "Germans and Italians have fought together in the greatest war to ever befall Earth. Our bonds of brotherhood, forged in blood and steel two decades ago and thought broken, have been remade: we have learned from our past mistakes, and this time, we'll stay together forever.\n\nWith trade flourishing once again, our economy is soaring, and with our shared dominance over Europe assured, our future looks bright. The world shook from the might of the first Axis, and we are sure that, in time, we'll be able to build a second one, ten times mightier!"
 
  #Sphere diplo
@@ -192,7 +192,7 @@
  
  #Econ I ideas
 
- GER_BOR_Econ_a_modern_wundewaffe_modifier:0 "A Modern Wunderwaffe"
+ GER_BOR_Econ_a_modern_wundewaffe_modifier:0 "꿈의 무기"
  GER_BOR_Econ_a_modern_wundewaffe_modifier_desc:0 ""
 
  GER_BOR_Econ_entscheidungsnetzwerk:0 "Das Entscheidungsnetzwerk"
@@ -209,11 +209,11 @@
  GER_BOR_internal_opposition_desc:0 "A black webs stretches across Germania, and no one is safe from its sticky embrace. An Internal Opposition schemes behind Bormann's back, seeking his removal from power and the establishment of... something new? Something old? Whispers dance around him and the shadows close in. Who is the spider at the heart of this conspiracy?"
 
  #Opulence
- GER_BOR_Herbst:0 "Herbst"
- GER_BOR_Herbst_desc:0 "The Herbst has struck the German Reich. Protests, riots, terrorist attacks and widespread dissent permeate German society, which is reeling from the disastrous effects of Bormann's purges over the last decade. The Second Night of the Long Knives may have brought a temporary stability, but the ongoing chaos looks set to be permanent."
- GER_BOR_redevelop_the_nation:0 "Redevelop the Nation"
- GER_BOR_mass_propaganda:0 "Mass Propaganda"
- GER_BOR_the_peoples_fuhrer:0 "The People's Führer"
+ GER_BOR_Herbst:0 "가을"
+ GER_BOR_Herbst_desc:0 "제국 전체에 가을이 찾아왔습니다. 지난 10년간의 보어만의 숙청에 충격을 받은 시위대,폭도,테러 공격과 반국가주의가 독일 사회에 스며들었습니다. 2차 장검의 밤은 짧은 안정을 가져왔을지 모르지만, 지금의 혼돈은 영원할 것 같습니다."
+ GER_BOR_redevelop_the_nation:0 "국가 재개발"
+ GER_BOR_mass_propaganda:0 "선전"
+ GER_BOR_the_peoples_fuhrer:0 "국민의 총통"
 
  ############
  # Tooltips #
@@ -1958,35 +1958,35 @@ BOR_back_to_black_desc:0 "Despite all the setbacks we have encountered, we have 
 BOR_end_of_the_ride:0 "End of the Ride"
 BOR_end_of_the_ride_desc:0 "The Second Night of the Long Knives, they call it. A fitting name for such a drastic measure. After a decade of struggling to unravel the political Gordian Knot of conspiracies and treason, the sword has fallen. The last filthy vestiges of treason infesting the Reich had been burned out, from the corrupt Church and the scheming Corporations to the cowardly Wehrmacht 'allies' and the wormy little bureaucrats.\n\nMartin Bormann and the Conservatives, at last, truly reign supreme. Sieg Heil!"
 
-BOR_asserting_our_control:0 "Asserting our Control"
+BOR_asserting_our_control:0 "우리의 지배권 확립"
 BOR_asserting_our_control_desc:0 "Without intervention, flames will continue to spread and engulf everything in their unquenchable thirst for destruction. Burning out the rot within the Reich is only the first step to consolidating our power. We must establish total control over the State, the Party, the Wehrmacht and society in general. Once the Führer has cemented his gains, few will deny his status as the most powerful man in German history."
 
-BOR_deal_with_the_aftermath:0 "Deal with the Aftermath"
-BOR_deal_with_the_aftermath_desc:0 "Development. Transformation. Evolution. To change is to suffer, but as we suffer, so do we grow stronger. The bloody aftermath of Unternehmen Adler must be cleaned up if we are to force all German eyes forward towards a hopeful future, and away from the murky past.\n\nShort building projects will begin to repair buildings and roads damaged by the fighting in Germania and most major cities. Streets will quite literally have to be cleaned of blood, and bodies disposed of. The organization of the Party and the Wehrmacht will have to be reshuffled with absolute precision. Most important of all, Germany must return to the world stage looking stronger and more ruthless than ever."
+BOR_deal_with_the_aftermath:0 "뒷정리"
+BOR_deal_with_the_aftermath_desc:0 "발전. 변신. 진화. 변화는 고통이지만, 우리가 고통받기 때문에 우리는 더 강하게 자라납니다.Development. Transformation. Evolution. To change is to suffer, but as we suffer, so do we grow stronger. The bloody aftermath of Unternehmen Adler must be cleaned up if we are to force all German eyes forward towards a hopeful future, and away from the murky past.\n\nShort building projects will begin to repair buildings and roads damaged by the fighting in Germania and most major cities. Streets will quite literally have to be cleaned of blood, and bodies disposed of. The organization of the Party and the Wehrmacht will have to be reshuffled with absolute precision. Most important of all, Germany must return to the world stage looking stronger and more ruthless than ever."
 
-BOR_the_fuhrers_power_secured:0 "Ein Führer"
+BOR_the_fuhrers_power_secured:0 "총통"
 BOR_the_fuhrers_power_secured_desc:0 "The enemy is purged. Total control has been solidified. The potential chaos following such a drastic series of events has been quelled in its infancy with the swift clean-up initiatives launched by the State. The Party, the military, the corporations and the people are fully subservient to Führer's might. With no existing opposition in any form, Martin Bormann has surpassed even Adolf Hitler as the most powerful leader of Germany."
 
 BOR_societal_engineering:0 "Societal Engineering"
 BOR_societal_engineering_desc:0 "As Hitler said of the masses: "...their intelligence is small, but their power of forgetting is enormous." The total reordering of German society and the Aryan mind has continued to ramp up in speed since that fateful day in 1933, but only a genius could hope to continue Hitler's work in this regard. Fortunately for the Reich, Bormann is one such genius. With unlimited power at his disposal, the Führer will increase the brainwashing of the German people with two specific goals in mind: the total elimination of the Church, and the emergence of a Cult of Personality."
 
-BOR_mass_propaganda:0 "Mass Propaganda"
+BOR_mass_propaganda:0 "대량 선전"
 BOR_mass_propaganda_desc:0 "With the appointment of the new Reichsminister for Propaganda and Public Enlightenment, Herr Leopold Gutterer, an overwhelmingly huge propaganda campaign will begin. The printed press, the radio, television, plays and cinema will all exalt the Reich, the Führer and the strength of orthodox conservative National Socialism.\n\n"People can be made to see paradise as hell, and to consider the most wretched sort of life as paradise.""
 
 BOR_reviving_kirtchenkampf:0 "Reviving Kirchenkampf"
 BOR_reviving_kirtchenkampf_desc:0 "Closing down the Protestant and Catholic churches and arresting their most outspoken priests was only the first step in Bormann's master plan. The institutional destruction of the Church will be completely cemented with anti-Christian propaganda, shaming the religious and reforming Christians into worshipping their Party and Führer instead. Whatever cruel deity watches over Germany, it will not miss the whining of the weak."
 
-BOR_the_peoples_fuhrer:0 "The People's Führer"
+BOR_the_peoples_fuhrer:0 "국민의 총통"
 BOR_the_peoples_fuhrer_desc:0 "Unlike the beloved Adolf Hitler, Bormann has struggled to maintain genuine love and admiration from the German people. According to OrPo reports, he is viewed as little more than a powerful administrator following the task set by the late Führer. If people are to truly believe in their nation and their people, so too must they believe in their leader. The terror and respect sweeping through society following the Second Knight of the Long Knives must be harnessed into a new Cult of Personality initiative by the RMVP, which will dedicate itself to portraying Bormann as a genius and a visionary rivalling Hitler himself."
 
 BOR_redevelop_the_nation:0 "Redevelop the Nation"
 BOR_redevelop_the_nation_desc:0 "The Thousand Year Reich continues to evolve and grow with each passing year. There is much infrastructural work to be done in the Reich, both to ensure the legacy of Twentieth Century Germany for the Aryans of the future, and to provide more work initiatives for the working class. The Großraum projects must continue, and be taken even further than before, to truly transform the Reich."
 
-BOR_welthaupstadt:0 "Welthauptstadt"
-BOR_welthaupstadt_desc:0 "The original construction of Hitler's vision of Germania was halted due to the 1950s economic crash; now, the torch has passed to Bormann. With the economy strengthening due to Hermann Josef Abs' ingenuity in running the Reich Ministry for Economics, the Führer will officially order the construction to continue, and stress his own role in helping Hitler with the designs in the 1940s. A lie, of course, but the people will not know otherwise. The RMVP will, naturally, leave Speer's influence by the wayside in all reports about the reconstruction efforts."
+BOR_welthaupstadt:0 "세계수도"
+BOR_welthaupstadt_desc:0 "원래의 게르마니아에 대한 히틀러의 비전은 1950년대의 경제 붕괴로 지연되었습니다. 이제, 그 역할은 보어만에게 넘어왔습니다. 헤르만 요제프 압스의 천재적인 제국 경제기관을 운영하는 능력으로 부상하는 경제에 힘입어, 총통은 건설을 계속하도록 명령할 것이고, 1940년대의 히틀러의 설계를 돕는 역할을 하는 자신의 역할을 강조할 것입니다. 물론 거짓말이지만 사람들은 다른 방법을 모르겠죠. RMVP는 자연스럽게 보고서에 쓰인 슈페어의 영향은 길 저쪽으로 치울 겁니다."
 
-BOR_jugenstadt_des_fuhrers:0 "Jugendstadt des Führers"
-BOR_jugenstadt_des_fuhrers_desc:0 "Adolf Hitler's dream of turning Linz into a "a German Budapest" shall be actualized. All halted construction in Linz shall continue, and the Austrian city itself will be massively expanded in accordance with Bormann's most trusted architects and designers. A statue of Hitler will be placed in the city, so that he may watch over his vision for a Thousand Years."
+BOR_jugenstadt_des_fuhrers:0 "총통의 신도시"
+BOR_jugenstadt_des_fuhrers_desc:0 "린츠를 '독일의 부다페스트'로 만들려는 아돌프 히틀러의 꿈은 실현되어야 합니다. 린츠에서 중지된 공사는 재개될 것이고, 보어만의 가장 신뢰받는 건축가와 설계사들은 도시를 급격히 확장시킬 것입니다. 도시에는 히틀러 동상이 세워질 것이고, 총통은 도시를 수천년동안 내려다볼 수 있을 것입니다."
 
 BOR_connect_it_all:0 "Connect It All"
 BOR_connect_it_all_desc:0 "The mega-projects have only just begun.\n\nBormann will order the expansion of the Breitspurbahn network to cover all German cities with the goal of creating one enormous megalopolis. The Reich continues to rise in might and glory, and the influx of working-class Germans to all these jobs will cause an uproar in the economy that no nation in the world would have anticipated a few years prior."
@@ -2003,11 +2003,11 @@ BOR_a_national_renaissance_desc:0 "The 1930s heralded the birth of the German Re
 BOR_towards_greater_projects:0 "Towards Greater Projects"
 BOR_towards_greater_projects_desc:0 "The post-purge restructuring of German society is completed. Now, Bormann turns his eyes towards larger projects; glorious new initiatives that will cement his legacy forever. The global superpowers will languish in the shadow of Germany's glory and prestige as they gradually disintegrate into the sandstorm of insignificance.\n\nSpace initiatives await us all. Mighty Wehrmacht reforms await us all. Boundless scientific discoveries await us all!"
 
-BOR_reviving_the_space_program:0 "Reviving the Space Program"
+BOR_reviving_the_space_program:0 "우주개발 프로그램 부활"
 BOR_reviving_the_space_program_desc:0 "In the not too distant future, the Aryan race will grow tired of their domination over the globe, and strive to spread the glory of National Socialism to infinity and beyond. The Führer will drive funding into the continuation and expansion of the German Space Program to ensure it rivals its pathetic foreign counterparts, so that the Reich may claim dominance over the stars. He who controls the skies controls the earth."
 
-BOR_beyond_the_moon:0 "Beyond the Moon"
-BOR_beyond_the_moon_desc:0 "The moon landing of 1962 will reverberate through history as one of the Reich's greatest achievements, and a feat of German bravery and technical innovation inherent in the Aryan mind. Bormann has determined, however, that the moon is but the first pale step on the stairway to beyond. Extensive preparations will begin for several unmanned exploratory missions to other planets in the Solar System; maybe, with enough tenacity, even a man on the surface of Mars."
+BOR_beyond_the_moon:0 "달을 넘어서"
+BOR_beyond_the_moon_desc:0 "1962년의 달 착륙은 역사에 라이히의 가장 위대한 업적 독일의 용기와 아리아인의 정신에 내재된 기술적 우월성의 위업을 높이 드러내었습니다. 한편 보어만은 달은 우주로 나아갈 첫 번째 단계에 불과하다는 결정을 내렸습니다. 태양계의 행성들을 탐사할 추가적인 무인 탐사 임무의 준비가 시작될 것입니다. 어쩌면, 끈기로 사람을 화성에 보낼 수 있을지도 모릅니다."
 
 BOR_a_german_space_station:0 "A German Space Station"
 BOR_a_german_space_station_desc:0 "To lay our claim to space we must establish our very first German Space Station. Upon its forgery, the Station will be launched into low orbit and tested to determine its success and potential for recreation. It shall act as an omniscient hub for German Raumfahrer to gather and conduct scientific research and experimentation."
@@ -2018,23 +2018,23 @@ BOR_military_redevelopment_desc:0 "The Reformists whined about the need for a li
 BOR_expand_the_entscheidungsnetzwerk:0 "Expand the Entscheidungsnetzwerk"
 BOR_expand_the_entscheidungsnetzwerk_desc:0 "The botched Cybersyn Project will be restarted and refined to meet its full and unrealized potential. The Americans and the Japanese will quake at the expansion of this project, which will spread to all sectors of the economy and herald a glorious rise in productivity and efficiency."
 
-BOR_maximized_efficiency:0 "Maximized Efficiency"
-BOR_maximized_efficiency_desc:0 "The Entscheidungsnetzwerk will be utilized to maximise the economic efficiency of the German Reich. While our foes writhe in the dirt amidst the inevitable collapse of their degenerate systems, the National Socialist economic model will prove strong and stable. The richest American will sneer in jealousy over the wealth and prosperity of the average working class German man!"
+BOR_maximized_efficiency:0 "효율 최대화"
+BOR_maximized_efficiency_desc:0 "결정 네트워크는 독일 제국의 경제적 효율성을 최대로 끌어올리기 위해 활용될 것입니다. 우리 적들이 그들의 퇴폐적인 시스템의 불가피한 붕괴 속에서 몸부림치는 동안, 국가사회주의 경제 모델의 강함과 안전성이 증명될 것입니다. 가장 부유한 미국인조차도 노동자 독일인의 부와 번영을 부러워하게 될 것입니다!"
 
-BOR_a_new_age_of_science:0 "A New Age of Science"
+BOR_a_new_age_of_science:0 "과학의 새 시대"
 BOR_a_new_age_of_science_desc:0 "Bormann learnt much from Hitler's late night ruminations about the future of science and technology. Aryan innovation combined with modern technology and heaps of Government funding will spark our science departments into action, creating a new golden age of scientific discovery. Who knows that wondrous inventions await us? Research into laser weaponry will contribute towards our new Wunderwaffe initiatives, and alchemic studies have produced interesting theories regarding the transformation of lead into gold."
 
-BOR_an_eternal_reich:0 "An Eternal Reich"
+BOR_an_eternal_reich:0 "영원한 제국"
 BOR_an_eternal_reich_desc:0 "Almost a decade ago, the Großgermanisches Reich was on the cusp of collapse, its brothers slaying each other and its institutions crumbling. Such a painful rebirth was necessary for its glorious new rise. Germany is a land of loyalty and stability, a land of scientific innovation and infrastructural ingenuity, a land of glory and hope. Germans of the future will look back with pride upon Martin Bormann, the majestic Second Führer and the man who reforged the Reich. Ein Volk, Ein Reich, Ein Führer!"
 
-BOR_autumn_in_germany:0 "Autumn in Germany"
-BOR_autumn_in_germany_desc:0 "The trauma of the last decade, from the Bürgerkrieg to the destruction of the Wehrmacht Plot and the Second Night of the Long Knives, has been simmering under the surface of Germany like a stifled scream. The kidnapping and murdering of Reichsminister Walther Hewel has ignited the population's restrained anguish into an eruption of brutal violence. All across the Reich, rioting and terrorist attacks are exploding with increasing frequency, and the house of cards Bormann has so carefully built up is finally crumbling before his very eyes.\n\nAutumn has arrived in Germany, and it won't be long until Winter too envelops the nation."
+BOR_autumn_in_germany:0 "독일의 가을"
+BOR_autumn_in_germany_desc:0 "내전에서 국방군의 음모를 분쇄한 일, 2차 장검의 밤까지 지난 10년의 악몽들이 들리지 않는 소리를 지르며 독일의 땅 밑에서 숨어 있었습니다. 제국장관 발터 헤벨을 납치하고 살해한 일은 국민들의 숨겨진 괴로움에 불을 붙여 잔인한 폭력의 분출로 만들었습니다. 라이히 전체에서 폭도들이 시위를 벌이고, 테러 공격이 점점 늘어나고 있습니다. 그리고 보어만이 조심스레 쌓아올린 불안정한 카드탑은 그의 눈 앞에서 무너지고 있습니다.\n\n독일에 가을이 찾아왔고, 겨울이 독일을 뒤덮기까지는 그렇게 오래 걸리지 않을 겁니다."
 
 ##Bormann Burgundy tree##
-BOR_against_the_shadow_state:0 "Against the Shadow State"
+BOR_against_the_shadow_state:0 "그림자 국가"
 BOR_against_the_shadow_state_desc:0 "It is time to deal with that black blotch on the map to the west of the Reich and the malnourished snake in charge of it! For decades the "Aryan Knights" of the SS have been operating their own shadow state, a dark cancer in the heart of the glorious Reich undermining the authority of the NSDAP and doing essentially what they want with no oversight. After their treachery was revealed in the fifties, they were granted a mercy they did not deserve and allowed their own little fief in the West, but what did they do with it? They promptly began exploiting the ailing condition of the Führer to totally extricate themselves from state control and gradually cut off all communications and trade with the Heimat. In the years since, Himmler and his band of villains have gone totally rogue and embarrassed the Reich by attacking the French and developing atomic weaponry. We must immediately draw up containment plans for this stain on our glory!"
 
-BOR_himmler_the_arch_traitor:0 "Himmler, the Arch-Traitor"
+BOR_himmler_the_arch_traitor:0 "반역자 힘러"
 BOR_himmler_the_arch_traitor_desc:0 "Before there was Heydrich, there was Himmler, who dug away at the very foundations of the Thousand Year Reich to elevate himself and his organization. Before there was Speer, there was a malfunctioning slave economy that deprived the students of jobs. Who was it who was so eager to empty their camps into this disastrous prospect? Himmler's SS. Before there was Göring and Schörner, there was the West Russian War, in which near-defeat radicalized the militarists. Who was at fault for the failure there? It was not the Party, slaving away in Germania. It was not the soldier at the front, heroically defending his Fatherland against the Cisuralic hordes. But who betrayed the Fatherland in its darkest hour, attempted to coup it and overthrow the rightful Führer? Himmler, Himmler, and again Himmler and his accursed SS! It is time to make it clear to the Reichstag and the world that almost all evils that have plagued the Reich the last thirty years go back to the SS snake with Himmler as its head, gnawing at the roots of the Germanic Yggdrasil, poisoning the well. Its head must be cut off!"
 
 BOR_denounce_the_ss:0 "Denounce the SS"
@@ -2043,22 +2043,22 @@ BOR_denounce_the_ss_desc:0 "It is not enough to simply reveal the duplicity and 
 BOR_reactivate_the_siegfried_line:0 "Reactivate the Siegfried Line"
 BOR_reactivate_the_siegfried_line_desc:0 "In the west of the Heimat lies the Siegfried line, our defensive works against French aggression, an ultimately pointless endeavor given our swift and decisive defeat of the puny armies of the Western Allies during the War. However, this relic of a feared repeat of the Weltkrieg can now be of use to us again. By refurbishing it and modernizing its fortifications and infrastructure, we have an effective, nigh-impenetrable wall against any attempted SS rebellion or raid of our vulnerable Saar-Rheinland region. No cost is too great when it comes to containing and deterring the dark madness inhabiting the remnants of RK Nord-Frankreich!"
 
-BOR_early_detection_system:0 "Early Detection System"
+BOR_early_detection_system:0 "조기경보시스템"
 BOR_early_detection_system_desc:0 "A consistent problem with the Ordensstaat is their unknown nuclear quantity. We are aware they possess the technology and know-how to produce at least low-yield atomic weapons, but their deployment cabapibilities and distribution is unclear at this point. To shield ourselves from a potential first strike by the traitors, we will need to invest in a net of radar stations and surveillance planes to ascertain imminent threats from the West."
 
 BOR_cut_them_off:0 "Cut Them Off"
 BOR_cut_them_off_desc:0 "Burgundy is luckily highly isolated already, despite largely lacking the resources for effective autarky. Our economists all conclude that the economic integrity of the Ordensstaat must be extremely weak and the best way to undermine their authority. As such, we will have to endeavor to sever their last few ties with the outside world. This will need to focus on three fronts. From the Reich proper, their only significant trading partner is the oil company Wintershall. This firm must be banned from conducting trade with them, promptly, and an example set for the others. Secondly, we must up naval patrols in the British Channel to intercept Burgundian smugglers. Finally, we must try to pressure the Bretons into cutting off the Ordensstaat from their trade networks. They will no doubt help us stamp out this cockroach, for the right... pecuniary motivation."
 
-BOR_into_the_unknown:0 "Into the Unknown"
+BOR_into_the_unknown:0 "미지로"
 BOR_into_the_unknown_desc:0 "It is time to deploy the considerable intelligence resources of the Reich to pry the secrets of the Ordensstaat from Himmler's cold, skeletal fingers. While Orpo has expressed... reservations about the feasibility of extracting actionable intelligence of note from a state as totalitarian as the Ordensstaat Burgund, military intelligence has stated confidence that a combination of focused signals intelligence, high altitude spy plane flyovers, and human intelligence team infiltration will be certain to yield at least some avenues of information regarding the internal workings and defenses of the rogue state. Let us pick up this rock and observe the critters scatter in the darkness underneath!"
 
-BOR_the_iron_curtain:0 "The Iron Curtain"
+BOR_the_iron_curtain:0 "철의 장막"
 BOR_the_iron_curtain_desc:0 "Lately we have seen signs of a worrying reorganization of SS assets in our joint border region. It is possible they are preparing for an attack of some sort in the coming months or years. To help secure our defenses, the refurbishment of the Siegfried line must be accelerated, reinforced with new bastions, and provided with experimental missile shield technology to protect it from potential SRBM strikes. If Himmler tries shooting his missiles at the strong shield of the Reich, he will be sorely disappointed as we shoot his puny rockets right out of the sky! None shall pass our curtain of iron and steel!"
 
 BOR_connections_to_brittany:0 "Connections to Brittany"
 BOR_connections_to_brittany_desc:0 "Our intelligence believes the Breton ports to be the primary access point for the Ordensstaat to goods from the wider world. The Bretons operate a worldwide trade network, and it is a poorly kept secret that they also engage in widespread smuggling with minimal oversight. While normally, we would be greatly angered and punish them severely for undermining our economic pact in such a manner, we will have to overlook this until the rogue state dividing our nations is dealt with. Pursuing friendly relations with Brittany will perhaps allow us to cut off Himmler's revenue stream and access to foreign goods. It is time we reminded them of our halcyon days of mutual profit and enmity towards the French, in the years before our New Order crumbled under the assault of traitors."
 
-BOR_the_enemy_of_my_enemy:0 "The Enemy of my Enemy..."
+BOR_the_enemy_of_my_enemy:0 "내 적의 적은.."
 BOR_the_enemy_of_my_enemy_desc:0 "Ah, the French. Our old enemies, as always raging against the fate that dooms old and bloated nations like theirs to be fodder for young and energetic powers like ours. While the last century of French history has been mostly an endless parade of humiliation on the part of their martial, scientific, and racial superiors in Germany, we did learn during the First World War that they can hold a line surprisingly well. Now that we have endeavored to deepen our ties with them, we can exploit the fact that Himmler recently shattered and broke the back of the majority of the French State, humiliating them far deeper than even the Reich did in the forties. Hungry for revenge and eager to reclaim their people, we can easily pull them into a defensive pact against the Burgundians in return for promising them most of their lands back. We have all the land we could ever need in the East; trading the promises of some Western lands filled with Frenchmen and Himmlerites for a solid alliance against the evils of the SS is definitely working. They only need to hold the line until the armed might of the Reich can be brought to bear. They can do that, right?"
 
 ###USA/OFN Bormann Diplo Tree###
@@ -2197,9 +2197,9 @@ BOR_torching_the_evidence:0 "증거 태우기"
 BOR_torching_the_evidence_desc:0 "A house of cards is built on every layer below, with any single card taken out of the equation quite likely leading to the collapse of the whole house - "the whole rotten structure collapsing", as the old Führer liked to put it. Bormann has spent years navigating the house of cards with the utmost care, managing alliances, being amiable to people he quite frankly despised. Now, he was powerful enough to replace a delicate hand with a hammer.\n\nDocuments will be burned. People will be shot and buried in shallow graves. Stories will be denied. Bormann's old alliances with the opposing factions are no more - in fact, the Führer would like to have it known that he has never and would never ally with groups so detrimental to the core ideals of National Socialism."
 BOR_speidels_merry_band:0 "Speidel's Merry Band"
 BOR_speidels_merry_band_desc:0 "That idiot Speidel and his band of morons are celebrating the fact that Schorner's been done away with. They see this as an opportunity to shape the Reich to their degenerate vision and take control of the Heer itself.\n\nThey greatly underestimate Führer Bormann. With the militarists gone, those idiots have removed the only reason that we even cooperated with them in the first place. It's time to clamp down on the reformists, show the fucker's who's boss. Bormann's the Führer now, and it's his Reich. He gets to decide what goes on."
-BOR_carrot_in_one_hand:0 "Carrot in One Hand"
+BOR_carrot_in_one_hand:0 "한 손에 당근"
 BOR_carrot_in_one_hand_desc:0 "While we certainly could just kill the bastards, it's not exactly tasteful to do so. It'd make a lot of people angry and create a lot of work that Bormann doesn't want to deal with. The best option is to focus on the reformists that are less loyal to Speidel. Convincing them to be more loyal to the Führer through pure words, threats, or even light torture would strengthen our position in the military and root out some of the degenerates currently threatening the Reich. The reformists may be suspicious of us upon finding out that a large amount of the influential reformists have suddenly become incredibly loyal to Bormann. They're liberals, however, and probably too stupid to notice something so blatantly obvious."
-BOR_rifle_in_the_other:0 "Rifle in the Other"
+BOR_rifle_in_the_other:0 "다른 한 손엔 총"
 BOR_rifle_in_the_other_desc:0 "We could try to convince some of the reformists to join us, making them less powerful and increasing our influence in the Heer. On the other hand, we could just shoot them outright. We all know that those liberals deserve it, anyway. Who will care if a few soldiers go missing here, a few officers there, a few divisions suddenly going silent. It'll look like business as usual. Especially because if you say anything strange is going on you're going to the camps, you filthy Jew. Though it isn't likely they'll simply let themselves be purged. Who cares what they care, anyway? Since when have the opinions of filthy degenerates mattered, especially with decisions of the Führer?"
 BOR_isolate_our_saviour:0 "Isolate our Saviour"
 BOR_isolate_our_saviour_desc:0 "Speidel is incredibly popular in all of the branches of the military. He's too popular to outright remove; if we did that we'd see another Bürgerkrieg. His primary base of power is within the Heer. There are some other sources of power, however. Sources Speidel has no influence over and can't protest if we do some... cleansing on. Nobody will care if a few more officers go missing mysteriously. If a few show up with bruises and start praising Führer Bormann a lot more than they used to. If a few soldiers suddenly get discharged. We may not be powerful enough to take down Speidel now, but we can at least secure a future for when we can."
@@ -2232,9 +2232,9 @@ BOR_under_our_control:0 "Under our Control"
 BOR_under_our_control_desc:0 "The remaining 40% of shares Reichswerke possesses will be under our direct control. We will control these with an iron fist. No longer will Reichswerke be allowed to operate without our approval. They are truly under the control of the Reich now, not some petty militarist puppet. It will all be under Führer Bormann from now on.\n\nThis will undoubtedly upset some petty bankers and businessmen, who were eager to dive back into Reichswerke and begin turning it against the Führer once more. They now are beginning to stand with the reformists like the Judeo-Bolshevik puppets they are. They're irrelevant, anyway, now that we control a large portion of Reichswerke."
 BOR_a_message:0 "A Message"
 BOR_a_message_desc:0 "We have neglected the obvious solution for the bankers that are threatening to buy up all of Reichswerke's spare stocks.\n\nKilling them.\n\nWe'll send a message to those who oppose the Führer. This will definitely upset the reformists and other political outliers, but we don't care about that. As long as they don't act, they'll be fine. If they do things we don't like, like these degenerate bankers, then we'll purge them. It's a simple code of conduct for simpletons. Let's hope they obey it so the Führer doesn't have to waste time writing another list of arrests."
-BOR_germanys_new_banks:0 "Germany's New Banks"
-BOR_germanys_new_banks_desc:0 "We've seized total control of Reichswerke. Our feast is finished. While we were inevitably forced to give a portion of our plate to our reformist "allies", this is still a great victory for us. We have gained a large amount of funds from seizing forty percent of Reichswerke for ourselves. While we do need to invest a large amount to make up for the funds lost in our purge of the bankers, we've turned a profit overall. And, even better, the Führer's power has grown more. There is more pressure to be loyal, something that shall be critical in our crusade against reformist degeneracy."
-BOR_the_fuhrers_new_banks:0 "The Führer's New Banks"
+BOR_germanys_new_banks:0 "독일의 새 은행"
+BOR_germanys_new_banks_desc:0 "우리는 라이히스베르케의 통제를 완전히 장악했습니다. 잔치는 끝났습니다. While we were inevitably forced to give a portion of our plate to our reformist "allies", this is still a great victory for us. We have gained a large amount of funds from seizing forty percent of Reichswerke for ourselves. While we do need to invest a large amount to make up for the funds lost in our purge of the bankers, we've turned a profit overall. And, even better, the Führer's power has grown more. There is more pressure to be loyal, something that shall be critical in our crusade against reformist degeneracy."
+BOR_the_fuhrers_new_banks:0 "총통의 새 은행"
 BOR_the_fuhrers_new_banks_desc:0 "We've seized total control of Reichswerke. Our feast is finished. While we were inevitably forced to give a portion of our plate to our reformist "allies", this is still a great victory for us. We have gained a large amount of funds from seizing forty percent of Reichswerke for ourselves. While we do need to invest a large amount to make up for the funds lost in our purge of the bankers, we've turned a profit overall. And, even better, the Führer's power has grown more. There is more pressure to be loyal, something that shall be critical in our crusade against reformist degeneracy."
 BOR_poor_naive_siemens:0 "불쌍하고 순수한 지멘스"
 BOR_poor_naive_siemens_desc:0 "지멘스 내부의 개혁주의 배신자들은 보어만 총통의 분노로부터 도망칠 수 있다고 생각하나 봅니다. 불쌍해라. 지멘스 그 자신도 곧 직위에서 해임되고 갑자기, 의문스럽게 공적인 삶에서도 사라질 것입니다. 이렇게 함으로써 지멘스는 총통과 총통에 충성하는 자들에게 지도권이 넘어가게 될 겁니다. 큰 상은 아니지만, 이것은 총통의 제어를 강화할 훌륭한 기회입니다. 게다가, 이 지멘스라는 목 잘린 괴물로부터 많은 돈을 벌어들일 수도 있습니다."
