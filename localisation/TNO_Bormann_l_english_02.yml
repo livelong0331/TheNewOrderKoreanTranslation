@@ -122,7 +122,7 @@
  BOR_the_march_east_collapse_desc: "The Reich is going to war against the secessionist states now occupying large portions of the former Reichskommissariat Moskowien. The Wehrmacht is being fully mobilized for the war effort, and great care must be put to ensure that the logistics and infrastructure are ready to support the armed forces."
  BOR_the_march_east_2SS: "The March East"
  BOR_the_march_east_2SS_desc: "The Reich is going to war against the secessionist states now occupying large portions of the former Reichskommissariat Moskowien. The Wehrmacht is being fully mobilized for the war effort, and great care must be put to ensure that the logistics and infrastructure are ready to support the armed forces."
- BOR_moskowien_reconstruction: "모스코비엔 "
+ BOR_moskowien_reconstruction: "모스코비엔"
  BOR_moskowien_reconstruction_desc: "The war to reconquer Moskowien is over, and the Reichskommissariat is once again under full German control. Now, a comprehensive effort has been undertaken to rebuild the region and ensure it can become a productive province of the larger Reich: large funds are being destined to reconstruct cities, factories and key infrastructures destroyed by the belligerents."
  BOR_MCW_russian_dissidence:0 "Russian Dissidence"
  BOR_MCW_russian_dissidence_desc:0 "The native Russians in Moskowien are fomenting dissent and rebellion in the Reichskommissariat. Whether their grievances are justified, or they are merely trying to secede once more from the Reich, this is disturbing ordinary life as protests and terrorist attacks cause delays in public works and victims among the security forces: if decisive actions are not undertaken, the protest will only continue, and may even grow."
@@ -134,11 +134,11 @@
  BOR_ITA_ever_vigilant_watch_desc: "The Italians, our greatest foe on the continent, are just beyond our borders, waiting for the smallest chance to strike at the heart of our great nation. They will find none, however, for the finest among our elite soldiers stand guard on the Alps, sentinels and guardians of the Reich against any and all invaders!"
  BOR_ITA_relax_trade_restrictions: "Relaxed Italian Trade Restrictions"
  BOR_ITA_relax_trade_restrictions_desc: "As part of our effort to rebuild diplomatic relationships with the Italian Empire, our two countries have mutually relaxed the harsh trade restrictions that have strangled trade for more than a decade. As trade starts flowing once again across the Alps, our economy can already feel the first beneficial effects."
- BOR_ITA_best_friends_forever: "Peace in our Time!"
+ BOR_ITA_best_friends_forever: "우리 시대에 평화를!"
  BOR_ITA_best_friends_forever_desc: "Germans and Italians have fought together in the greatest war to ever befall Earth. Our bonds of brotherhood, forged in blood and steel two decades ago and thought broken, have been remade: we have learned from our past mistakes, and this time, we'll stay together forever.\n\nWith trade flourishing once again, our economy is soaring, and with our shared dominance over Europe assured, our future looks bright. The world shook from the might of the first Axis, and we are sure that, in time, we'll be able to build a second one, ten times mightier!"
 
  #Sphere diplo
- GER_BOR_sphere_trade:0 "Trade with the Sphere"
+ GER_BOR_sphere_trade:0 "공영권과의 무역"
  GER_BOR_sphere_trade_desc:0 "Daily Political Power Gain: [?BOR_Sphere_Trade_political_power_gain|=+]\n£prod_eff Production Efficiency growth: [?BOR_Sphere_Trade_production_factory_efficiency_gain_factor|=+%]\nResearch Speed: [?BOR_Sphere_Trade_research_speed_factor|=+%]\nGDP Growth: [?BOR_Sphere_Trade_gdp_growth_modifier|=+%]\n§g--------------§!\nWith German-Japanese relations cooled to a low simmer, trade has reopened between the two superpowers. Now offices of Mitsubishi can be found on the same street as those of Daimler-Benz and Yasuda's traders have been seen waving their fists in the Frankfurt Stock Exchange. Sumimoto's copper is regularly exchanged with Reichswerke's coal and steel, and IG Farben's dominance of the European chemical industry is subject to a not-so-friendly contest with Mitsui Chemicals' extensive supply of industrial catalysts. There is a new Big Four in the German market, and the competition is breeding innovation and profit unseen in the Reich for many years."
  GER_BOR_sphere_trade_dynamic_modifier:0 "Trade with the Sphere"
  GER_BOR_sphere_megacorp_presence:0 "German Corporate Presence" 
@@ -153,16 +153,16 @@
  GER_BOR_anti_sphere_5:0 "Anti-Sphere Vanguard"
 
  #Oil Crisis
- GER_Bormann_OC_bombing_runs:0 "German Bombing Runs"
+ GER_Bormann_OC_bombing_runs:0 "독일 테러 폭격"
  GER_Bormann_OC_bombing_runs_desc:0 "The Luftwaffe is conducting heavy operations in our skies! Factories and infrastructure are being bombed to dust, and our troops report heavy losses: with no way to fight against an enemy of such magnitude, we can do nothing but endure."
- GER_Bormann_OC_bombing_runs_intensified:0 "Intensified German Bombing"
- GER_Bormann_OC_orpo_sabotage:0 "Orpo Sabotage"
+ GER_Bormann_OC_bombing_runs_intensified:0 "강화된 독일 폭격"
+ GER_Bormann_OC_orpo_sabotage:0 "질서경찰의 사보타주"
  GER_Bormann_OC_orpo_sabotage_desc:0 "The German intelligence is operating in our country! Despite our efforts, we can't stop the enemy from conducting operations throughout the country, sabotaging strategic assets and spying on our military forces."
  GER_Bormann_OC_wehrmacht_advisors:0 "Wehrmacht Advisors"
  GER_Bormann_OC_wehrmacht_advisors_desc:0 "Germany has sent military advisors to help us improve our armed forces. Under their guidance, we'll improve both training procedures and tactics, dramatically improving overall efficiency of our war effort."
  GER_Bormann_OC_german_technicians:0 "German Industrial Support"
  GER_Bormann_OC_german_technicians_desc:0 "The Reich has sent engineers and technicians to help us increase our production rates. With modern machinery already in place, and the experts training new skilled workforce among our own laborers, we'll soon be able to better supply our army!"
- GER_Bormann_OC_heat_of_the_desert:0 "Heat of the Desert"
+ GER_Bormann_OC_heat_of_the_desert:0 "사막의 열기"
  GER_Bormann_OC_heat_of_the_desert_desc:0 "The Middle East is a difficult land to fight into. With sun-scorched deserts, dry mountains and the omnipresent heat, our troops will need special equipment and training to ensure they don't die amidst the sands."
  GER_Bormann_OC_intervention:0 "Middle Eastern Intervention"
  GER_Bormann_OC_intervention_desc:0 "Send volunteers tension limit: §G-100.0%§!\nMax volunteer force divisions: [?BOR_OC_send_volunteer_size|0=+]\n§g--------------§!\nWhile a full-scale war would be too risky - at least for now - we can still influence the course of the conflict. To this end, we have sent several Wehrmacht units to help our allies in the Middle East: we can only hope they succeed..."
@@ -174,17 +174,17 @@
  GER_Bormann_OC_UAR_trade_desc:0 "The Reich has proved an invaluable ally in achieving our independence. As expected, they now want their reward in the form of economic advantages in our country: while some of the treaties are beneficial to us, there's no doubt over who gets the lion's share of the profits."
 
  # Econ mechanic
- GER_BOR_Econ_GER_idea:0 "Großraum Kontinentaleuropa" # Germany's idea
- GER_BOR_Econ_GER_idea_desc:0 "Daily Political Power Gain: [?BOR_Econ_GER_political_power_gain|=+]\nConsumer Goods Factories: [?BOR_Econ_GER_consumer_goods_factor|=%Y0]\nFactory Output: [?BOR_Econ_GER_industrial_capacity_factory|=%+2]\nProduction Efficiency Base: [?BOR_Econ_GER_production_factory_start_efficiency_factor|=%+2]\nFuel Gain per Oil: [?BOR_Econ_GER_fuel_gain_factor|=%+2]\nResources to Market: [?BOR_Econ_GER_min_export|=%Y0]\nAnnual GDP Growth Factor: [?BOR_Econ_GER_gdp_growth_modifier|=%+2]\n§g--------------§!\nAn economic initiative dominated by the Reich, the Großraum is the tool by which self-suffiency shall be achieved, degenerate slavery phased out and the Reichskommissariats be bound to our will."
+ GER_BOR_Econ_GER_idea:0 "그로스라움 콘티넨탈오이로파" # Germany's idea
+ GER_BOR_Econ_GER_idea_desc:0 "일일 정치력 증가량: [?BOR_Econ_GER_political_power_gain|=+]\n민간 공장 사용률: [?BOR_Econ_GER_consumer_goods_factor|=%Y0]\n공장 생산량: [?BOR_Econ_GER_industrial_capacity_factory|=%+2]\nProduction Efficiency Base: [?BOR_Econ_GER_production_factory_start_efficiency_factor|=%+2]\nFuel Gain per Oil: [?BOR_Econ_GER_fuel_gain_factor|=%+2]\n시장으로 가는 자원량: [?BOR_Econ_GER_min_export|=%Y0]\n연간 GDP증가 요소: [?BOR_Econ_GER_gdp_growth_modifier|=%+2]\n§g--------------§!\n그로스라움은 퇴폐적인 노예제를 단계적으로 폐지하고 국가판무관부들을 우리의 의지대로 조종하며 자급자족을 달성하기 위한 라이히의 경제적 계획입니다."
 
- GER_BOR_Econ_RK_idea:0 "Großraum Kontinentaleuropa" # Reichskommissariat idea
- GER_BOR_Econ_RK_idea_desc:0 "Daily Political Power Gain: [?BOR_Econ_RK_political_power_gain|=+]\nStability: [?BOR_Econ_RK_stability_factor|=%+2]\nResources to Market: [?BOR_Econ_RK_min_export|=%Y0]\nResource Gain Efficiency: [?BOR_Econ_RK_local_resources_factor|=%+2]\nFactory Output: [?BOR_Econ_RK_industrial_capacity_factory|=%+2]\nConstruction Speed: [?BOR_Econ_RK_production_speed_buildings_factor|=%+2][Get_EconMech_targeted_modifiers]\n§g--------------§!\nAn economic initiative dominated by the Reich, the Großraum is the tool by which self-suffiency shall be achieved, degenerate slavery phased out and the Reichskommissariats be bound to our will."
+ GER_BOR_Econ_RK_idea:0 "그로스라움 콘티넨탈오이로파" # Reichskommissariat idea
+ GER_BOR_Econ_RK_idea_desc:0 "일일 정치력 증가량: [?BOR_Econ_RK_political_power_gain|=+]\n안정도: [?BOR_Econ_RK_stability_factor|=%+2]\n시장으로 가는 자원량: [?BOR_Econ_RK_min_export|=%Y0]\n자원 채취 효율성: [?BOR_Econ_RK_local_resources_factor|=%+2]\n공장 생산량: [?BOR_Econ_RK_industrial_capacity_factory|=%+2]\n건설 속도: [?BOR_Econ_RK_production_speed_buildings_factor|=%+2][Get_EconMech_targeted_modifiers]\n§g--------------§!\n그로스라움은 퇴폐적인 노예제를 단계적으로 폐지하고 국가판무관부들을 우리의 의지대로 조종하며 자급자족을 달성하기 위한 라이히의 경제적 계획입니다."
 
- GER_BOR_Econ_RK_idea_targeted_effects_1:0 "\nCivilian Factories to [GER.GetFlag] Germany: §R+5.00%§!\nMilitary Factories to [GER.GetFlag] Germany: §R+5.00%§!\nExtra Trade to [GER.GetFlag] Germany: §G+2.50%§!\nTrade Cost for [GER.GetFlag] Germany: §G-2.50%§!"
- GER_BOR_Econ_RK_idea_targeted_effects_2:0 "\nCivilian Factories to [GER.GetFlag] Germany: §R+10.00%§!\nMilitary Factories to [GER.GetFlag] Germany: §R+10.00%§!\nExtra Trade to [GER.GetFlag] Germany: §G+5.00%§!\nTrade Cost for [GER.GetFlag] Germany: §G-5.00%§!"
- GER_BOR_Econ_RK_idea_targeted_effects_3:0 "\nCivilian Factories to [GER.GetFlag] Germany: §R+15.00%§!\nMilitary Factories to [GER.GetFlag] Germany: §R+15.00%§!\nExtra Trade to [GER.GetFlag] Germany: §G+7.50%§!\nTrade Cost for [GER.GetFlag] Germany: §G-7.50%§!"
- GER_BOR_Econ_RK_idea_targeted_effects_4:0 "\nCivilian Factories to [GER.GetFlag] Germany: §R+20.00%§!\nMilitary Factories to [GER.GetFlag] Germany: §R+20.00%§!\nExtra Trade to [GER.GetFlag] Germany: §G+10.00%§!\nTrade Cost for [GER.GetFlag] Germany: §G-10.00%§!"
- 
+  GER_BOR_Econ_RK_idea_targeted_effects_1:0 "\n민간공장 [GER.GetFlag] 독일에: §R+5.00%§!\n군수공장 [GER.GetFlag] 독일에: §R+5.00%§!\n무역 거래량 증가[GER.GetFlag] 독일에: §G+2.50%§!\n무역 비용[GER.GetFlag] 독일에: §G-2.50%§!"
+ GER_BOR_Econ_RK_idea_targeted_effects_2:0 "\n민간공장 [GER.GetFlag] 독일에: §R+10.00%§!\n군수공장 [GER.GetFlag] 독일에: §R+10.00%§!\n무역 거래량 증가[GER.GetFlag] 독일에: §G+5.00%§!\n무역 비용[GER.GetFlag] 독일에: §G-5.00%§!"
+ GER_BOR_Econ_RK_idea_targeted_effects_3:0 "\n민간공장 [GER.GetFlag] 독일에: §R+15.00%§!\n군수공장 [GER.GetFlag] 독일에: §R+15.00%§!\n무역 거래량 증가[GER.GetFlag] 독일에: §G+7.50%§!\n무역 비용[GER.GetFlag] 독일에: §G-7.50%§!"
+ GER_BOR_Econ_RK_idea_targeted_effects_4:0 "\n민간공장 [GER.GetFlag] 독일에: §R+20.00%§!\n군수공장 [GER.GetFlag] 독일에: §R+20.00%§!\n무역 거래량 증가[GER.GetFlag] 독일에: §G+10.00%§!\n무역 비용[GER.GetFlag] 독일에: §G-10.00%§!"
+
  GER_BOR_Econ_RK_targeted_1:0 "그로스라움 콘티넨탈오이로파"
  GER_BOR_Econ_RK_targeted_2:0 "그로스라움 콘티넨탈오이로파"
  GER_BOR_Econ_RK_targeted_3:0 "그로스라움 콘티넨탈오이로파"
@@ -210,7 +210,7 @@
 
  #Opulence
  GER_BOR_Herbst:0 "가을"
- GER_BOR_Herbst_desc:0 "The Herbst has struck the German Reich. Protests, riots, terrorist attacks and widespread dissent permeate German society, which is reeling from the disastrous effects of Bormann's purges over the last decade. The Second Night of the Long Knives may have brought a temporary stability, but the ongoing chaos looks set to be permanent."
+ GER_BOR_Herbst_desc:0 "가을이 독일 제국에 찾아왔습니다. 지난 10년 동안 보어만이 벌인 숙청으로 인한 시위,폭동,테러 공격과 체제에 대한 국민의 반발이 독일 사회에 만연합니다.2차 장검의 밤은 일시적인 안정을 가져왔지만, 현재의 혼란은 영원할 것 같습니다."
  GER_BOR_redevelop_the_nation:0 "국가 재개발"
  GER_BOR_mass_propaganda:0 "대중 선전"
  GER_BOR_the_peoples_fuhrer:0 "국민의 총통"
@@ -291,8 +291,8 @@
  BOR_DEN_integration:0 "§Y덴마크§!의 §T라이히로의 완전한 통합§!을 위한 준비가 시작될 것입니다"
 
  #Norway diplo tree
- BOR_denmark_was_reclaimed: "We have reclaimed Denmark"
- BOR_NOR_reclaim_norway: "dominion over norway is essential in order to ensure control over the north sea or smthing idk\n"
+ BOR_denmark_was_reclaimed: "덴마크를 되찾음"
+ BOR_NOR_reclaim_norway: "노르웨이의 지배권은 북해를 우리 손 아래에 두기 위해 필수적입니다."
  BOR_NOR_socialist_norway: "사회주의자들과는 협상하지 않는다.\n"
  BOR_NOR_refused_conference: "노르웨이가 협상을 거부했습니다.\n"
  BOR_NOR_negotiation_failure: "협상이 §R실패했습니다.§!."
@@ -309,8 +309,8 @@
 
  #Norway opinion modifiers
  NOR_GER_allowed_norwegian_force: "노르웨이군 허용함"
- NOR_GER_sent_the_garrison_back: "Sent the Garrison back"
- NOR_GER_allowed_reforms: "Allowed our economic reforms"
+ NOR_GER_sent_the_garrison_back: "부대를 돌려보냈습니다."
+ NOR_GER_allowed_reforms: "우리의 경제 개혁을 허용했습니다."
  NOR_GER_kept_economic_control: "경제 제어 유지함"
  
  #Sweden/Finland diplo chains
@@ -409,7 +409,7 @@
  BOR_ECON_ONE_our_eternal_hegemony: "Unlocks decisions to tie the economies of §BGroßraum§! members to our own §Rensuring they never escape our grip§!."
  BOR_ECON_ONE_the_disconnected_pipelines: "This will further the integration of §Tall Reichskommissariats§! into the §YGroßraum§! and the §QReich's economy.§!"
  BOR_ECON_ONE_the_winding_roads: "Our infastructure projects shall ensure slaves are put to work and deported more quickly, §Yincreasing the rate of slave removal by §G10%§!§!."
- BOR_ECON_ONE_a_reforged_reich: "Führer Bormann's policies have reforged the Reich's economy, 보어만 총통의 정책이 라이히의 경제를 개혁했습니다. 더 이상 독일은 세계의 병자로 보이지 않을 겁니다!\n§YThis will increase the effectiveness of the Entscheidungsnetzwerk§!."
+ BOR_ECON_ONE_a_reforged_reich: "보어만 총통의 정책이 라이히의 경제를 개혁했습니다. 더 이상 독일은 세계의 병자로 보이지 않을 겁니다!\n§Y이것은 결정 네트워크의 효율을 늘릴 것입니다.§!."
  BOR_ECON_ONE_germanys_new_railways: "보어만의 새로운 기반시설 건설 계획이 더 많은 독일인들에게 일자리를 주었습니다.§Y빈곤율이 감소합니다.§!."
  BOR_ECON_ONE_our_new_profits: "Our massive investments have resulted in similarly massive returns, §Yyielding us §G$500 million§! in profit§!"
  BOR_ECON_ONE_the_german_golden_age: "The modern wunderwaffe is completed, our economy is stronger than ever! §YThis will increase our §Ggrowth by 0.5%§!, our §Gconstruction speed by 3%§! and reduce our §Gconsumer goods factories by 2%.§!§!\nThis is the start of the §GGerman Golden Century§!!"
