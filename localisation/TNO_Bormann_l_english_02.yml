@@ -139,9 +139,9 @@
  BOR_recruit_dutch_refugees_desc:0 "SS의 잔인함은 특히 라이히의 국경 주변에 사는 많은 네덜란드인들을 고향에서 쫓아냈습니다. 그들 대부분은 국방군에 참가해 힘러의 깡패 조직을 몰아내는 데 함께하고 싶어합니다."
 
  #Nordic diplo
- BOR_FIN_military_attache: "German Military Attaché"
+ BOR_FIN_military_attache: "독일 주재무관"
  
- BOR_scandic_defence_initiative:0 "Scandinavian Defence Initiative"
+ BOR_scandic_defence_initiative:0 "스칸디나비아 방어 계획"
  BOR_scandic_defence_initiative_desc:0 ""
  BOR_swedesh_tech_cooperation:0 "Wissenschaftliche Gruppe"
  BOR_swedesh_tech_cooperation_desc:0 "The Wissenschaftliche Gruppe, known as the Scientific Group to American observers, is a technological collaboration between the Third Reich and Sweden, building on pre-existing industrial ties to bolster one another's economies. It enables scientists, engineers, and other specialists to better exchange their knowledge and promote innovation across the Pakt."
@@ -421,7 +421,7 @@
  BOR_ECON_ONE_the_power_of_the_machine: "우리의 투자는 §G$100 백만§!달러의 이익을 냈습니다."
  BOR_ECON_ONE_und_das_werk_der_intelligenz: "중소기업의 연구를 지원하기 위해 §R$100 백만 달러§!를 지원할 것입니다"
  BOR_ECON_ONE_stunting_cybersyn_one: "§Y결정 네트워크§!는 예산 부족으로 지체되었습니다. §Y우리 GDP 성장률에 미치는 영향이 §R1.5%§! 감소하고 비용 절약 능력이 §R0.5%§!감소합니다.§!"
- BOR_ECON_ONE_stunting_cybersyn_two: "The §Y결정 네트워크§! has been stunted due to lack of funds and further development has been abandoned, §Yreducing it's impact on our growth by §R1.5%§! and its ability to reduce costs by §R0.15%§!§!"
+ BOR_ECON_ONE_stunting_cybersyn_two: "The §Y결정 네트워크§!는 자금 부족으로 지체되었고 향후 진행이 중지되었습니다. §Y우리 GDP성장률에 미치는 영향력이 §R1.5%§! 감소하고 비용 절약 능력이 §R0.15%§!감소합니다.§!"
  BOR_ECON_ONE_stunting_cybersyn_three: "Our investment in the startup has been abandoned due to our inability to provide further funds, yielding us an §Yunfinished Entscheidungsnetzwerk§! that can §Gincrease growth and reduce costs by 0.1%§!."
  BOR_ECON_ONE_put_them_to_work: "§R25,000명의 노예를 없애 노동에 투입될 것입니다.§!"
 
@@ -448,7 +448,7 @@
 
  #Dismantlement I
  BOR_Dismantlement_PreparationAvailable:0 "\n§x해체 버튼이§! §Y70%§! §L통제율§! §e에 도달한다면 선택할 수 있게 될 것입니다.§!"
- BOR_Dismantlement_ExecutionAvailable:0 "§eThe§! §xExecute§! §ebutton will become available once we reach§! §Y75%§! §LControl.§!"
+ BOR_Dismantlement_ExecutionAvailable:0 "§e§! §Y75%§! §L제어를 확보하면§! §x실행§! §e버튼이 활성화될 것입니다.§!"
  BOR_Dismantlement_Church:0 "§Y교회§!는 §R완전히§! §e해체§!될 것입니다."
  BOR_Dismantlement_Plantations:0 "§Y노예농장§!은 §R완전히§! §e해체§!될 것입니다."
  BOR_Dismantlement_Siemens:0 "§Y지멘스§!는 §R완전히§! §e해체§!될 것입니다."
@@ -521,11 +521,11 @@
  GER_Bormann_Foreign_Policy_Mauritius_and_Reunion:0 "천국의 정복"
  GER_Bormann_Foreign_Policy_Mauritius_and_Reunion_desc:0 "독일령 아프리카 본토의 몰락과 마다가스카르 상실 이후 우리는 인도양의 유일한 전초기지를 상실했고 남반구의 바다에 대한 일본의 통치를 막아낼 수 없게 되었습니다. 하지만 아프리카의 혼란스러운 상황은 우리가 이 지역에 다시 들어갈 기회를 제공해주었습니다. 크릭스마리네는 마다가스카르 근처의 모리셔스와 레위니옹을 점거하고 있는 적대 세력에 대한 빠른 공격을 준비하고 있습니다.\n\n만약 그들이 성공한다면 우리는 인도양에서 일본의 공격을 견뎌낼 기지를 재설치할 수 있을 것입니다."
  
- BGR_Take_Moskowien:0 "Take Moskowien"
- BGR_Moskowien_Setup:0 "Reorganize Moskowien"
+ BGR_Take_Moskowien:0 "모스코비엔 장악"
+ BGR_Moskowien_Setup:0 "모스코비엔 재조직"
  
- GER_Bohemia_Reconstruction_BGR_A:0 "Bohemian Reconstruction"
- GER_Bohemia_Reconstruction_BGR_B:0 "Bohemian Reconstruction"
+ GER_Bohemia_Reconstruction_BGR_A:0 "보헤미아 재건설"
+ GER_Bohemia_Reconstruction_BGR_B:0 "보헤미아 재건설"
 
  #Fall Rollo
  GER_Bormann_Fall_Rollo_category:0 "롤로 상황"
@@ -1559,7 +1559,7 @@ BOR_the_power_of_the_machine:0 "기계의 힘"
 BOR_the_power_of_the_machine_desc:0 "대독일제국의 효율성은 현 시대의 그 어떤 나라도 따라오지 못합니다. 경제 문제에 대한 총통의 기술적 접근은 계속될 것이다 라이히의 재정적 상황에 긍정적으로 영향을 미칠 와 결합된  결정 네트워크 The Führer's technocratic approach to economic matters will continue to positively impact the Reich's financial situation. The Entscheidungsnetzwerk, combined with reduced costs from monetary calculations made near instantaneously, has allowed for the government to improve the balance of our budget in an incredible manner... 기계 만세!"
 
 BOR_the_cogs_turn:0 "The Cogs Turn"
-BOR_the_cogs_turn_desc:0 "The Entscheidungsnetzwerk's effectiveness is unmatched. A well oiled machine, its calculations have made redundant the proverbial chaff of the Großgermanisches Reich's harvest - who for decades worked to undermine the Reich from within our government. As a computer does not require sleep or breaks, Führer Bormann has successfully made redundant multiple eccentric fellows who have continuously taken up large quantities of our budget with personal pursuits that run counter to the government's desires."
+BOR_the_cogs_turn_desc:0 "결정 네트워크의 효율성은 비할 상대가 없습니다. A well oiled machine, its calculations have made redundant the proverbial chaff of the Großgermanisches Reich's harvest - who for decades worked to undermine the Reich from within our government. As a computer does not require sleep or breaks, Führer Bormann has successfully made redundant multiple eccentric fellows who have continuously taken up large quantities of our budget with personal pursuits that run counter to the government's desires."
 
 BOR_the_impoverished_and_useless:0 "가난하고 쓸모없는 자들은"
 BOR_the_impoverished_and_useless_desc:0 "세상에... 총통 각하는 정말 경제 천재입니다! 한때는 가난하고 쓸모없었던 사람들이 국민적 유대감 속에서 자신들의 새로운 의미를 찾아냈습니다. 고용률이 지속적으로 개선되며 라이히는 한때 우리의 황금기에 그랬듯 실업률 0%에 빠르게 다가가고 있습니다. 다시 한번, 미래는 밝아 보입니다!"
@@ -1632,7 +1632,7 @@ BOR_ramping_up_production:0 "생산량 늘리기"
 BOR_ramping_up_production_desc:0 "With the delicate supply chain that keeps foreign oil flowing to German industries increasingly imperiled, it would only be wise to boost our own production as a safeguard. The Reich's continued foothold in the oil rich region of the Kaukasus will be key to this domestic ramp-up - massive expansion of our domestic facilities will enable a greater quantity of oil production and boost our domestic industry as a welcome side effect."
 
 BOR_harsh_quotas:0 "가혹한 할당량"
-BOR_harsh_quotas_desc:0 "For too long the Reich has been lenient to the administrations of our Reichskomissariats, giving them leeway in the name of stability and political unity - it is an open secret. Now that the Reich's economy is spiraling into crisis, however, we must take extraordinary measures to stabilize a fragile economy. Harsh quotas shall be enforced on the Reichskommissariats' domestic economy and their resource extraction operations to combat the ongoing crisis. With any luck, we will push the Reich back to greatness on the backs of those who have bettered themselves through our mercy, and they will know better than to complain."
+BOR_harsh_quotas_desc:0 "너무 오랜 시간동안 라이히는 국가판무관부 행정관들에게 관대했습니다. 그들에게 안정성과 정치적 단결이란 이름으로 방종을 허락했습니다. 이것은 공공연한 비밀입니다. 라이히의 경제가 위험에 빠져들고 있으니, 우리는 예외적인 수단을 동원해 취약한 경제를 안정시켜야 합니다. 현재 진행되는 공황에 맞서기 위해 국가판무관부들의 내수 경제와 자원 생산에 가혹한 할당량이 부과될 것입니다. 운이 좋다면 우리는  우리의 자비로움으로 스스로를 희생한 사람들을 발판삼아 라이히를 다시 위대하게 만들 것입니다. 그리고 그들은 불평하는 것보다 좋은 것이 있다는 걸 알게 될 것입니다."
 
 BOR_reduce_usage:0 "소모 제한"
 BOR_reduce_usage_desc:0 "The Reich's people are its greatest strength - this we have known since the first rallies in Nuremberg. But their rapidly growing consumption is also our national vulnerability, draining already fragile resource networks and imperilling our offensive capabilities against our rivals. We must take measures to reduce oil consumption rates - everything from speed limits to transport details for civilian and military patrols can be controlled. For the sake of the nation, we must make immense sacrifices - and our people, our strength, must go first."
@@ -1646,8 +1646,8 @@ BOR_volksgemeinschaft_desc:0 "동양의 말을 빌리자면, 어떻게 오랫동
 BOR_work_for_the_fatherland:0 "조국을 위해 일하라"
 BOR_work_for_the_fatherland_desc:0 "Unemployment once again mars the face of the Reich, erasing the gains we have made since the West Russian War. It is enough to make the strongest of men weep - but now is not the time for mourning. Now is not the time at all. Swift and decisive action is necessary to secure employment, and we have a means of producing that security: booting the slave caste out of their workplaces and moving German workers into these positions instead. Active and incisive propaganda will motivate our nation to take on the burdens of maintenance - we must all 'work for the Fatherland' in these times!"
 
-BOR_keep_the_wehrmacht_afloat:0 "국방군 살려두기"
-BOR_keep_the_wehrmacht_afloat_desc:0 "The Wehrmacht is the most vital institution in the Reich, and its salaries feed a significant portion of domestic consumption. Ignoring their needs would be ethically wrong, considering their role in elevating Germany to greatness - more importantly, it would lead to unrest, and the Führer really does not need more problems on his plate right now. Rather than pumping funds into what the reformists call their precious 'domestic sector' and 'workers' protection measures', the government shall instead focus our efforts on keeping the Wehrmacht's spending up and stabilizing soldier payouts."
+BOR_keep_the_wehrmacht_afloat:0 "국방군 유지"
+BOR_keep_the_wehrmacht_afloat_desc:0 "국방군은 라이히에서 가장 중요한 국가기관이며, 국방군의 봉급은 내수 경제에서 아주 중요한 부분을 차지하고 있습니다. 독일을 위대한 국가로 끌어올리는 역할을 맡은 국방군의 필요를 무시하는 것은 인간적으로 잘못되었습니다. 더 중요한 것은 국방군을 무시한다면 그것은 불안으로 이어질 것이며 총통 각하는 더 이상 문제가 생기는 것을 원하지 않습니다. 개혁가파들이 주장하는 자기들의 소중한 '내수 시장'이나 '노동자 보호 수단' 같은 데 예산을 소모하는 대신 정부는 국방군의 지출 증가를 유지하고 병사들에게 주는 월급을 유지하는 데 중점을 두어야 할 것입니다."
 
 BOR_they_still_have_their_uses:0 "그들은 아직 쓸모있다"
 BOR_they_still_have_their_uses_desc:0 "노예제가 구식 시스템이고 유감스럽게도 폐지되어야 한다는 사실이 분명하지만, 일단 우리가 묶어놓은 노예들은 대독일제국에 유용합니다. 우리는 코앞에 닥친 더 큰 일을 위해 노예 해방을 연기해야 합니다. 라이히 동부에서 최근에 확장된 자원 채굴 시설을 개발하는 일입니다. 협박이나 안전 시설, 위생 설비에 접근하는 것을 검지하는 잔혹한 방법을 써서라도,우리는 자원 생산량을 수백배 끌어올릴 겁니다!"
@@ -1655,8 +1655,8 @@ BOR_they_still_have_their_uses_desc:0 "노예제가 구식 시스템이고 유�
 BOR_work_for_freedom:0 "자유를 위해 일하라"
 BOR_work_for_freedom_desc:0 "There are worries amongst government officials that the slaves are not quite committed to the vital work of keeping the Reich's resource yields up. Worse, there are tales of outright sabotage, be they true or false - their very existence saps the energy from our slaves, seducing their minds into treasonous behavior. To nip such rumors in the bud and calm our panicking internal security agencies, we shall simply tell the slaves that their work will "set them free". It is, of course, a lie - but one which will ensure that the slaves struggle over each other to be set free through their labors. To quote Führer Bormann; "delightfully devilish"."
 
-BOR_a_few_favorable_loans:0 "A Few Favorable Loans"
-BOR_a_few_favorable_loans_desc:0 "Our regime's friendly relationship with the bankers has not been easy to defend in public, but it has at last become useful to us. As the Reich is stricken with debt and our financial capacities lurch into oblivion, we must look to the banks for the financial assets we need to keep us liquid. Thus, we shall use our contacts with the bankers (specifically Hermann Josef Abs) to receive favourable deals on some loans to help eliminate our immediate debt."
+BOR_a_few_favorable_loans:0 "호의적인 대출 몇 번"
+BOR_a_few_favorable_loans_desc:0 "우리 정권이 은행가들과 가진 우호적인 관계는 공적으로 지켜내기 힘들었지만, 최소한 우리에게 쓸모있기는 했습니다. 라이히가 빚에 허덕이고 국가의 경제 능력은 암울한 상태에서, 우리가 은행을 유동성을 유지할 금융 자산을 유지하려면 은행과 접촉해야 합니다.  그러므로, 우리는 은행가들(특히 헤르만 요제프 압스)에게 연락해 급한 빚을 갚을 대출을 받을 것입니다."
 
 BOR_back_to_black:0 "다시 어둠으로"
 BOR_back_to_black_desc:0 "우리가 겪은 모든 차질에도 불구하고,우리는 드디어 해냈습니다! 라이히는 '석유 파동'을 견뎌내었고 다음 몇 분기 안에 복구가 시작될 것으로 예상됩니다. 일단 경제가 안정화된다면, 전쟁 전처럼 경제를 성장시킬 수 있을 겁니다! 새 시대의 태양이 지평선에서 떠오르고 있고, 라이히의 역사가 시작된 이후로 가장 위대한 번영의 시대가 시작되었습니다! 보어만 총통 만세! 라이히 만세!"
